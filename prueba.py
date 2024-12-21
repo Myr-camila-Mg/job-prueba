@@ -1,3 +1,3 @@
-example = [3,5,6,3,5]
-  for number in example:
+example = [1, 2, 3]
+for number in example:
     print(number)
