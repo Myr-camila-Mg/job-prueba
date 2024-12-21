@@ -1,3 +1,3 @@
-example = [1, 2, 3]
+example = [1435, 3452, 443]
 for number in example:
     print(number)
